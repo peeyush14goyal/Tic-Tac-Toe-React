@@ -1,7 +1,9 @@
 ## Tic-Tac-Toe Game using ReactJS
 Following the official documentation of ReactJS. I created the Tic-Tac-Toe game in ReactJS. Its a fully functional Tic-Tac-Toe Game. Features of the game are listed below.I have also implemented the features that were given for practice in ReactJS documentation
 
+##### Deployed at Github Pages: https://peeyush14goyal.github.io/Tic-Tac-Toe-React/
 #### Screenshots
+
 ![alt_text](https://github.com/peeyush14goyal/Tic-Tac-Toe-React/blob/master/screenshots/winning.PNG)
 
 
